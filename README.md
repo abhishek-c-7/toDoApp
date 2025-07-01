@@ -38,10 +38,11 @@ modern JavaScript technologies.
 
 ---
 
-Deployment:
 
 
-https://todo-app-b96a5.web.app/
+## 🔗 Live Demo
+
+👉 [Click here to try the live app!](https://todo-app-b96a5.web.app/)
 
 
 📸 Screenshots
